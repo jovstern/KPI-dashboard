@@ -1,0 +1,42 @@
+.icon-value-container {
+  @include flexbox;
+  height: calc(100% - (39px + 25px));
+  opacity: 0;
+  transition: opacity .5s ease-in-out;
+
+  &.show-component {
+    opacity: 1;
+  }
+
+  .wrapper{
+    width: 50%;
+    margin-top: 10px;
+    flex-grow: 1;
+    padding-right: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    &:last-child{
+      justify-content: flex-start;
+      padding-left: 10px;
+    }
+  }
+  .icon-bg{
+    position: relative;
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    background-color: $dark-gray;
+    border-radius: 100%;
+    img{
+      width: 50%;
+      color: white;
+      position: absolute;
+      top: 24%;
+      left: 27%;
+
+    }
+  }
+
+}
+

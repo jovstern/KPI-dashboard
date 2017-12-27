@@ -1,0 +1,34 @@
+.spent-container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity .5s ease-in-out;
+
+  &.show-component {
+    opacity: 1;
+  }
+
+  .numbers-container{
+    position: relative;
+    z-index: 2;
+    .number-wrapper{
+      text-align: right;
+      margin: 9px 0 0 0;
+      border-bottom: 2px solid #cdcdcd;
+      padding-left: 50px;
+      padding-bottom: 8px;
+      &:last-child{
+        border-bottom: none;
+      }
+      h4{
+        color: $medium-gray;
+        margin-top: -5px;
+      }
+    }
+  }
+}

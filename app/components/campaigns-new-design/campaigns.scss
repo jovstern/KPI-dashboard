@@ -1,0 +1,83 @@
+.campaigns-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity .5s ease-in-out;
+
+  &.show-component {
+    opacity: 1;
+  }
+
+  main {
+    width: 100%;
+    margin-top: -35px;
+  }
+
+  .slider-widget-wrapper {
+    position: relative;
+    width: 80%;
+    left: 10%;
+    height: 35px;
+
+    .background {
+      position: absolute;
+      z-index: 1;
+      height: 100%;
+      width: 100%;
+      background-color: #b4b4b4;
+      opacity: .3;
+    }
+
+    .today-mark {
+      position: absolute;
+      z-index: 2;
+      height: 100%;
+      width: 100%;
+      background-color: #b4b4b4;
+    }
+    .average-mark {
+      position: absolute;
+      z-index: 3;
+      height: 45px;
+      width: 100%;
+      border-right: 2px solid $dark-gray;
+    }
+    .average-mark-cover{
+      position: absolute;
+      z-index: 4;
+      height: 45px;
+      width: 100%;
+      border-right: 2px solid #000000;
+      opacity: .3;
+    }
+    .average-text {
+      position: absolute;
+      left: 0px;
+      top: 47px;
+    }
+  }
+
+  .numbers-container {
+    display: flex;
+    margin-bottom: 9px;
+    width: 80%;
+    left: 10%;
+    position: relative;
+    .number-wrapper {
+      flex-grow: 1;
+      text-align: left;
+
+      h4{
+        color: $medium-gray;
+        margin-top: -5px;
+      }
+      &:last-child{
+        text-align: right;
+      }
+    }
+  }
+}
+
