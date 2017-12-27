@@ -1,0 +1,318 @@
+Version 0.0.19 2017-08-27
+==========================
+change config.js
+change color in last-sync
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.68.0
+
+
+Version 0.0.18 2017-08-23
+==========================
+fixed the style in the last label of the categories discover graph
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.68.0
+
+
+Version 0.0.17 2017-08-23
+==========================
+Merge branch 'design-the-layout' of https://bitbucket.org/taykey/webapps.kpi-dashboard into design-the-layout
+empty commit
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.68.0
+
+
+Version 0.0.16 2017-08-20
+==========================
+add the new constans
+empty commit
+make the lie in campaigns daynamic by the mounth
+make the lie in campaigns daynamic by the mounth
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.68.0
+
+
+Version 0.0.15 2017-08-14
+==========================
+add classes to git and remove campaigns-test
+new google font
+check is response is null in icon-number widget
+remove completely the abbreviateNumber function
+make the abbreviateNumber with if statement
+add date to tool tip in impressions and new abbreviateNumber method
+change from console error to throw error in all the calls
+fix the avefageText
+style the legend in the impressions bar
+add classes data and add the lie to campaign widget bar
+add the lie var in campaigns
+return the new-design in campaigns
+fix if statment in programmatic
+improve impressions data
+if stament in response in mange page
+if stament to response in trends page
+add if statement in the response if programatic page
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.67.0
+
+
+Version 0.0.14 2017-06-15
+==========================
+change the refrash time to 5 min and change the loader of active trends widget
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.65.0
+
+
+Version 0.0.13 2017-06-14
+==========================
+add proptypes
+removing old design of campaigns widget
+adding q.all in some of the calls and fix loaders
+make dates a class with funcions
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.65.0
+
+
+Version 0.0.12 2017-06-13
+==========================
+spent design changes
+Merge branch 'design-the-layout' of https://bitbucket.org/taykey/webapps.kpi-dashboard into design-the-layout
+decreas the sffixNum in the abbreviateNumber function
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.65.0
+
+
+Version 0.0.11 2017-06-11
+==========================
+Merge branch 'design-the-layout' of https://bitbucket.org/taykey/webapps.kpi-dashboard into design-the-layout
+design twiks
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.65.0
+
+
+Version 0.0.10 2017-06-11
+==========================
+design twiks
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.65.0
+
+
+Version 0.0.9 2017-06-11
+=========================
+empty commit
+design twicks
+Merge branch 'design-the-layout' of https://bitbucket.org/taykey/webapps.kpi-dashboard into design-the-layout
+make real mock
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.65.0
+
+
+Version 0.0.8 2017-06-11
+=========================
+add mock to impressions and add average to them
+add mock to spent component
+add cover on top avg mark
+Merge branch 'design-the-layout' of https://bitbucket.org/taykey/webapps.kpi-dashboard into design-the-layout
+add mock.js and play with new designs
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.62.0
+
+
+Version 0.0.7 2017-06-08
+=========================
+increst font-size
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.62.0
+
+
+Version 0.0.6 2017-06-08
+=========================
+change calls in campaigns and design the impressions charts
+add json-loader to package.json
+real data for campaign
+add config file with time to interval the calls
+design shit
+real data to programmatic impressions
+Merge branch 'design-the-layout' of https://bitbucket.org/taykey/webapps.kpi-dashboard into design-the-layout
+dealing with zeros in different widgets
+add time zone
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.62.0
+
+
+Version 0.0.5 2017-06-06
+=========================
+calculate in area chart
+change last sync format
+data to segments
+design the flex in app
+Merge branch 'design-the-layout' of https://bitbucket.org/taykey/webapps.kpi-dashboard into design-the-layout
+add pages
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.62.0
+
+
+Version 0.0.4 2017-06-01
+=========================
+Merge branch 'design-the-layout' of https://bitbucket.org/taykey/webapps.kpi-dashboard into design-the-layout
+Fixed webpack
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.62.0
+
+
+Version 0.0.3 2017-06-01
+=========================
+empty
+back to kpi-dashboard
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.62.0
+
+
+Version 0.0.2 2017-06-01
+=========================
+change the install_path in tk-project
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.62.0
+
+
+Version 0.0.1 2017-06-01
+=========================
+change the paths in tk-projects
+design the main layout
+design the icons section
+start the programmatic component
+design the discovered charts
+refine the main structure
+add moments
+design the bg circle and the general grays
+design the bar chart with backgroiund grays
+position the circle
+finish circle
+start the circle
+new grid spaces
+make more dates filters
+start to move callbacks to new file
+fine tuning in bar chart
+design the bar-chart
+start design the bar chart
+start  the spent widget
+add numbers to the chart
+design the area chart
+design the bar and the numbers in campaigns widget
+design the graphs
+new overall design
+design the campaigns widget
+highcharts with points
+add highcharts
+design the header
+add the new PropTypes package
+add titles and time
+make the main structure with colors
+arrange project
+package.json + build remove
+Added test & more fixes
+Merge branch 'master' of https://github.com/AmitBu/react-mobx-seed
+Added computed sample
+Update README.md
+Update README.md
+Update README.md
+Merge branch 'master' of https://github.com/AmitBu/react-mobx-seed
+Init commit
+Initial commit
+
+author: yoav@taykey.com
+
+build details:
+
+tests did't run for this version
+pmg version: 1.62.0
+
+
